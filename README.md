@@ -13,4 +13,3 @@ Features:
 - Cross-platform support (Android & Web)
 
 Built with Flutter and Dart.
->>>>>>> 8be20f9b9bcfbc6d0379f18b77a81cbb36ce6c96
