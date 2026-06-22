@@ -1,17 +1,16 @@
-# mahjong_solitaire
+# mahjong-solitaire
+Mahjong Solitaire is a single-player puzzle game built with Flutter.
 
-A new Flutter project.
+Match identical tiles to clear the board. Players can only select free tiles that are not blocked by other tiles. The goal is to remove all tiles and complete the puzzle.
 
-## Getting Started
+Features:
+- Classic Mahjong Solitaire gameplay
+- Tile matching system
+- Free tile detection
+- Hint, Undo, and Shuffle options
+- Timer and move counter
+- Offline support
+- Cross-platform support (Android & Web)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built with Flutter and Dart.
+>>>>>>> 8be20f9b9bcfbc6d0379f18b77a81cbb36ce6c96
